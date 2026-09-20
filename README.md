@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/inceptioncodes/DSA/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/inceptioncodes/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/inceptioncodes/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/inceptioncodes/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/inceptioncodes/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
