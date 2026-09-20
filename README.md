@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/inceptioncodes/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/inceptioncodes/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/inceptioncodes/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/inceptioncodes/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/inceptioncodes/DSA/tree/master/0704-binary-search) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/inceptioncodes/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/inceptioncodes/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/inceptioncodes/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/inceptioncodes/DSA/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/inceptioncodes/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
